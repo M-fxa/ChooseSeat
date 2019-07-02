@@ -1,0 +1,3 @@
+admin=123=Tony=true=1=true=flase
+stu=123=Tom=false=1=false=false
+stu2=123=Sam=false=1=false=false
